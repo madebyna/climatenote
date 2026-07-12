@@ -1,0 +1,11 @@
+{
+  "description": "ClimateNotes",
+  "repo": "https://github.com/madebyna/climatenotes-website",
+  "owner": {
+    "username": "madebyna",
+    "email": "sriinandhaj2660@gmail.com"
+  },
+  "record": {
+    "CNAME": "climatenotes-website.vercel.app"
+  }
+}
